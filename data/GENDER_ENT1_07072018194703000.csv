@@ -1,0 +1,758 @@
+﻿"LOCATION","Country","INDICATOR","Indicator","SEX","Sex","AGE","Age","TIME","Time","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,2.70421,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,8.908279,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,7.949056,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,8.171995,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,6.975698,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.042591,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,7.699275,"B","Break"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,7.805531,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,8.238137,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,8.176238,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,8.075523,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,7.535967,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.870265,"B","Break"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,8.28214,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,9.752105,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,9.1497,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.750354,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,8.695652,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.804111,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,6.587977,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.575726,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.777893,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.72823,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.229914,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.733581,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.517416,"N","Non-publishable, but non-confidential value"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.619412,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,5.5442,"B","Break"
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.818182,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.958005,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,6.541104,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.979762,,
+"BEL","Belgium","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.46496,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,7.121727,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,7.890525,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,7.491903,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,7.484561,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,7.655189,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.305802,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,7.582522,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,7.299683,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,7.085801,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.667041,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.534534,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.610926,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.541398,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.105367,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.890599,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.783984,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.62361,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.567298,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.581049,,
+"CAN","Canada","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.948915,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,12.42886,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,12.89274,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,13.76361,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,14.18908,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,13.27208,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,11.67908,"B","Break"
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,10.8419,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,10.441,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,10.90941,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,12.0075,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,12.56637,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,12.966,"B","Break"
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,13.37821,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,11.28725,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,10.83455,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,10.03373,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,10.27801,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,6.056002,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.378263,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,4.715084,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,6.674312,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,6.014669,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,5.69001,"B","Break"
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.158957,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,6.351247,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.900783,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.56962,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.896553,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.883436,"B","Break"
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,7.206653,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,8.032491,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,6.791641,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.134225,,
+"CZE","Czech Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.520395,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.600339,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.644829,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,5.910064,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,5.613126,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.427351,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,6.408094,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.157635,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.318292,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,6.324583,"B","Break"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,7.241379,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.700593,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.13693,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,6.897993,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,6.877636,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,7.381676,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.965395,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,7.176826,,
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,3.476983,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,3.641591,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.067796,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,3.146176,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.688336,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.217687,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,3.901047,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,3.669725,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.036087,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.325582,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.913248,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.399808,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.324844,"N","Non-publishable, but non-confidential value"
+"FIN","Finland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.543303,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,4.51479,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,4.158732,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,3.955529,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,3.563251,"B","Break"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.359371,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.747133,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.842568,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.960127,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.452208,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,5.489163,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.703645,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.5297,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.902311,"B","Break"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.950683,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.906007,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,2.064428,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,2.552904,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,2.816963,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,3.030041,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,2.755991,"N","Non-publishable, but non-confidential value"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,3.609342,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,3.534228,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,3.366723,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.928354,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,3.909795,"B","Break"
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.833041,,
+"FRA","France","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.011211,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.011648,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,4.523009,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,4.413631,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,4.644578,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.059752,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,5.427405,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.125195,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.899988,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.723081,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.599013,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.295739,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.535514,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.468831,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.006601,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,3.995699,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.791255,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,3.650499,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,2.402665,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,2.000208,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,2.030841,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,2.258905,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,2.398151,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,3.091222,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,3.09848,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.202652,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,2.608532,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,2.875736,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,2.620712,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,2.795022,"B","Break"
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,2.809907,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,2.540132,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,2.603125,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,2.357637,,
+"DEU","Germany","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,2.276363,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,18.63045,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,18.68007,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,16.83683,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,16.26168,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,17.24331,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,16.08216,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,16.3979,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,15.59706,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,14.79748,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,14.58333,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,15.72042,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,16.59052,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,18.52493,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,19.41363,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,18.57536,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,17.27411,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,17.81525,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,11.13696,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,10.83907,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,8.821902,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,8.852193,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.547915,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,9.476855,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,8.757298,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,8.030647,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,9.271899,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,10.67989,"B","Break"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,10.85147,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,9.957215,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,10.30833,"N","Non-publishable, but non-confidential value"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,11.40584,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,9.800996,,
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,8.891109,"N","Non-publishable, but non-confidential value"
+"GRC","Greece","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,7.610994,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,10.65544,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,9.66333,"B","Break"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,7.932116,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,8.562806,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.522283,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,8.307501,"B","Break"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.621247,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.910895,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.892323,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.23948,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.68054,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.958201,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.989727,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.047685,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.541995,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.778779,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.413168,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.727554,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.378847,"B","Break"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,5.701311,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,5.671947,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,6.03097,,
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,5.56183,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.614486,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.179471,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.162664,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.822598,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,3.644894,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.303052,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.671072,"N","Non-publishable, but non-confidential value"
+"HUN","Hungary","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.161014,"N","Non-publishable, but non-confidential value"
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,17.59502,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,16.44621,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,15.63712,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,16.7015,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,19.43586,"B","Break"
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,17.53058,"B","Break"
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,17.88083,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,17.3005,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,16.58018,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,16.00257,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,17.00198,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,15.84113,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,16.31711,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,16.57804,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,16.5775,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,16.04871,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,14.36001,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,10.4051,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,10.3134,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,10.22774,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,9.326874,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,14.30772,"B","Break"
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,14.17087,"B","Break"
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,14.5584,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,14.7025,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,13.05092,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,12.72915,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,13.44024,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,12.84142,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,13.66577,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,14.37489,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,13.70214,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,14.2977,,
+"ITA","Italy","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,14.96457,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,1.859897,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,1.683029,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,1.666906,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,1.795684,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,1.704633,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,1.796407,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,1.673436,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,1.597497,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,1.682613,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,1.793424,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,1.721594,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,1.780256,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,1.122707,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,1.222938,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,1.026936,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,1.065109,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,1.075079,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,0.9743773,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,0.9994448,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,1.141595,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,1.231114,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,1.210975,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,1.331115,,
+"JPN","Japan","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,1.293452,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,14.1278,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,13.51195,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,13.37846,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,12.49658,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,13.15147,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,12.05881,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,12.89339,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,12.00584,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,12.41819,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,11.7142,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,11.81164,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,11.62645,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,12.55574,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,12.84121,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,12.68442,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,12.87933,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,12.59552,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,13.25596,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,12.6384,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,13.87092,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,13.42735,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,13.37031,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,12.80447,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,12.85813,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,13.33212,,
+"MEX","Mexico","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,13.03344,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.172978,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.554322,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,6.262142,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,6.058851,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,6.303419,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,6.09681,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.002662,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,6.553712,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,6.733848,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,7.103891,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,8.593653,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,8.3428,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,8.738108,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,9.578736,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,9.338327,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.251919,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,9.646771,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,3.24097,"N","Non-publishable, but non-confidential value"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,2.583568,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,2.600025,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,2.189131,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,2.792501,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,2.533141,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,2.888975,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.401969,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,3.78605,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.036952,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.111011,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.650858,"B","Break"
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.424549,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.12356,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.498738,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.807437,,
+"NLD","Netherlands","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.854091,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.424955,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.875717,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.58891,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.059652,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.979544,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.15695,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.284832,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,5.45809,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,2.879079,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,3.349754,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,3.952991,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.816047,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.474452,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.010033,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,3.840125,,
+"NZL","New Zealand","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2017","2017","PC","Percentage","0","Units",,,4.099561,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,3.97351,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,4.259806,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,3.703703,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,4.859219,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,3.800475,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.099143,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.837104,"B","Break"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.768384,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.583683,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.154176,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.635193,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.057971,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,3.944223,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.708086,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.370079,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.601227,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.169914,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,2.079108,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,2.817598,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,2.551985,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,2.169982,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,2.297794,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,1.652893,"N","Non-publishable, but non-confidential value"
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,2.266667,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,2.239449,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,3.017603,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,2.425763,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,2.334306,,
+"NOR","Norway","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,2.377049,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,15.87501,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,15.30497,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,14.57964,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,14.62116,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,11.87142,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,11.30644,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,11.177,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,10.14115,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,10.36315,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,10.57913,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,10.65113,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,10.95022,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,10.91632,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,10.41797,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,10.60175,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,10.99318,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,11.06728,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,11.52687,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,11.0901,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,11.02315,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,9.45986,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,9.710145,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,7.178074,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.737781,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,6.628168,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,6.710992,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,6.842072,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.606191,"B","Break"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,6.367096,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,6.190657,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,6.740594,,
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,6.00751,"N","Non-publishable, but non-confidential value"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.196281,"N","Non-publishable, but non-confidential value"
+"POL","Poland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.390487,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,8.947197,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,11.1254,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,9.316267,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,9.111618,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,9.079469,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,8.141264,"B","Break"
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,7.487041,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,7.667668,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,7.604016,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,7.646925,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.619094,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,6.533436,"B","Break"
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.650536,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.028644,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.350318,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.741325,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.780526,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.899476,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,6.716134,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,6.614635,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,6.523157,"B","Break"
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.764467,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.56077,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.782342,,
+"PRT","Portugal","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.738255,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,7.461103,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,7.81415,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,8.605042,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,8.942275,"B","Break"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,12.12021,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,11.38054,"B","Break"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,11.97998,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,12.92496,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,13.06906,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,14.23706,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,15.4162,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,15.4052,"B","Break"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,15.74682,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,14.55569,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,12.62327,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,12.66014,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,14.21714,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,4.922945,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.572205,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.637809,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.16484,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.475763,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,8.791748,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,8.664628,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,6.39864,"B","Break"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,7.265447,,
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,6.17849,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.324074,"N","Non-publishable, but non-confidential value"
+"SVK","Slovak Republic","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.354155,"N","Non-publishable, but non-confidential value"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,9.271523,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,8.957491,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,9.103536,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,8.549245,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.406623,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,9.744346,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,9.238333,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,9.328105,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,9.363708,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,8.230632,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,7.898568,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.924984,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,9.505229,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,10.24987,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,10.17526,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.489113,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,8.366993,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.899067,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.837321,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,5.098939,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,4.429618,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,4.937153,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,5.36445,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.935633,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.008696,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.038144,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,4.989751,"B","Break"
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.651311,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.731575,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.331744,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.410857,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,5.987754,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.611719,,
+"ESP","Spain","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.879156,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,4.414587,"B","Break"
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,4.97793,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,5.722968,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.494217,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.266526,"B","Break"
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.782498,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.960649,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.964211,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.274672,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.700713,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.780072,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.128205,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.307809,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.567666,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.615702,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.454747,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,2.353585,"N","Non-publishable, but non-confidential value"
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,2.278209,"N","Non-publishable, but non-confidential value"
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,2.407661,"N","Non-publishable, but non-confidential value"
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,2.449529,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,2.406282,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,2.659046,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,2.990834,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,2.867801,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,2.55079,,
+"SWE","Sweden","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,2.005289,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,8.26965,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,6.96756,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,6.03753,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,7.349298,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,6.924316,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,6.637885,"B","Break"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.989387,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.827914,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,6.978548,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.355777,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.889601,"B","Break"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.756214,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,3.857075,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.688244,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.782299,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.877069,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.663698,,
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.003032,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,3.824037,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,4.267931,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,3.271441,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,3.42029,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.738872,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,3.174173,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,3.043843,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,2.710101,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,2.051282,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,2.367501,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,2.213924,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,2.541068,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,2.145709,"N","Non-publishable, but non-confidential value"
+"CHE","Switzerland","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,1.838966,"N","Non-publishable, but non-confidential value"
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,15.73109,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,15.00051,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,14.95504,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,14.173,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,12.61616,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,11.891,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,10.82055,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,10.44115,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,9.218006,"B","Break"
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.389343,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,8.867392,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.829511,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.24181,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.313278,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,6.550696,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.626815,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,5.422018,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,5.095369,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.241787,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.614994,"B","Break"
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.333532,,
+"TUR","Turkey","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.071172,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,7.347199,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,6.79506,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,7.754203,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,7.87676,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.994254,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,9.020499,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,9.031589,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,8.973062,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,9.403295,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,9.422161,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,9.168479,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,10.01581,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,10.49958,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,9.95752,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,10.14954,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.747638,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,9.863013,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,3.604738,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,2.888713,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,2.994936,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,3.442904,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,3.149173,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,2.996441,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,3.397074,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.562387,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,3.681875,"B","Break"
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,3.699568,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.117219,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.640093,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.223666,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.527378,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.775612,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,5.065894,,
+"GBR","United Kingdom","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.718974,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,16.65588,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,16.49532,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,14.75715,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,14.36392,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,14.24783,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,13.41432,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,13.19372,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,12.59102,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,11.71979,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,11.75991,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,12.31669,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,13.08866,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,13.45119,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,11.57079,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,11.25202,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,10.79181,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,10.68459,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,10.92388,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,9.909038,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,9.64574,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,9.601077,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,9.317006,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,8.710687,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,8.869246,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,9.581384,,
+"BRA","Brazil","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.867004,,
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,3.157895,"N","Non-publishable, but non-confidential value"
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.494382,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.368932,"N","Non-publishable, but non-confidential value"
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,8.975767,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,9.584953,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,11.02073,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,9.562366,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,8.564226,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,9.20205,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,9.49103,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,8.079184,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,6.590148,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,6.308273,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,6.045562,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.934306,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,6.296112,,
+"ZAF","South Africa","ENT12","Share of self-employed in the 20-29 year old population of employed","WOMEN","Women","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.547613,,
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,5.809768,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.243742,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,5.302624,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.781938,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,5.095375,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,5.005187,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.812967,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.32646,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.429864,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,5.637685,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,3.767123,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,4.548789,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.954624,,
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.9066,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,4.508197,"N","Non-publishable, but non-confidential value"
+"AUT","Austria","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,4.635294,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,4.717682,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,4.43714,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.509178,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.031696,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,5.390625,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.014749,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,4.749455,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,4.767932,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,3.875316,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,4.458078,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,4.229848,,
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,3.837472,"N","Non-publishable, but non-confidential value"
+"DNK","Denmark","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,3.681885,"N","Non-publishable, but non-confidential value"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,8.933601,,
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,8.458499,,
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,7.114309,"N","Non-publishable, but non-confidential value"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,7.199056,"N","Non-publishable, but non-confidential value"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,8.178014,,
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,6.876994,"B","Break"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,6.262491,,
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,7.21519,"B","Break"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,7.471853,,
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,6.972716,"N","Non-publishable, but non-confidential value"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.010929,"N","Non-publishable, but non-confidential value"
+"IRL","Ireland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,5.10083,"N","Non-publishable, but non-confidential value"
+"EST","Estonia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,6.153846,"N","Non-publishable, but non-confidential value"
+"EST","Estonia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,5.648855,"N","Non-publishable, but non-confidential value"
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,5.35855,,
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,6.108066,,
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,6.488157,,
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,7.011867,,
+"LVA","Latvia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.011561,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,7.324219,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2001","2001","PC","Percentage","0","Units",,,5.882352,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2002","2002","PC","Percentage","0","Units",,,5.953488,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,5.283381,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2004","2004","PC","Percentage","0","Units",,,5.03663,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2005","2005","PC","Percentage","0","Units",,,3.842549,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2006","2006","PC","Percentage","0","Units",,,4.429783,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,4.860486,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2008","2008","PC","Percentage","0","Units",,,4.501324,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2009","2009","PC","Percentage","0","Units",,,5.53398,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2010","2010","PC","Percentage","0","Units",,,6.095041,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2011","2011","PC","Percentage","0","Units",,,7.190265,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2012","2012","PC","Percentage","0","Units",,,6.532067,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,6.658292,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2014","2014","PC","Percentage","0","Units",,,8.354755,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2015","2015","PC","Percentage","0","Units",,,8.291457,"N","Non-publishable, but non-confidential value"
+"SVN","Slovenia","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,6.138108,"N","Non-publishable, but non-confidential value"
+"ISL","Iceland","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2013","2013","PC","Percentage","0","Units",,,9.142858,,
+"LUX","Luxembourg","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,10.2459,"N","Non-publishable, but non-confidential value"
+"LTU","Lithuania","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2000","2000","PC","Percentage","0","Units",,,15.54271,"N","Non-publishable, but non-confidential value"
+"LTU","Lithuania","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2003","2003","PC","Percentage","0","Units",,,10.82138,"N","Non-publishable, but non-confidential value"
+"LTU","Lithuania","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2007","2007","PC","Percentage","0","Units",,,10.03911,"N","Non-publishable, but non-confidential value"
+"LTU","Lithuania","ENT12","Share of self-employed in the 20-29 year old population of employed","MEN","Men","20-29","20-29","2016","2016","PC","Percentage","0","Units",,,10.19787,"N","Non-publishable, but non-confidential value"
